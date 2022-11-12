@@ -46,4 +46,5 @@ tabela['Preço de Compra'] = tabela['Preço Original'] * tabela['Cotação']
 tabela['Preço de Venda'] = tabela['Preço de Compra'] * tabela['Margem']
 print(tabela)
 
-input('')
+# Exporta os novos dados para um novo arquivo excel atualizado
+tabela.to_excel('Produtos Novo.xlsx', index=False)
