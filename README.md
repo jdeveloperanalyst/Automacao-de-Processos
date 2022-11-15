@@ -1,6 +1,6 @@
 # Automação de Processos
 
-No dia a dia das empresas, é muito comum que existam operações manuais que além de extremamente repetitivas são suscetíveis a erro visto que são feitas manualmente.
+No dia a dia das empresas, é muito comum que existam operações manuais que além de extremamente repetitivas são suscetíveis a erro visto que são feitas manualmente
 
 <br>
 <h3 align="center">
