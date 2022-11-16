@@ -22,13 +22,8 @@ https://user-images.githubusercontent.com/112918533/202278285-37f227fa-62a8-40f7
 Mostrando um pouco a estrutura do código, irei falar sobre as bibliotecas utilizadas e cada etapa do processo até a criação de um novo arquivo com os dados atualizados. <kbd>Confira abaixo:</kbd> 
 
 
+https://user-images.githubusercontent.com/112918533/202279552-c0783ce8-0cac-4ccd-8266-b99b3a380c40.mp4
 
-<br>
-<h3 align="center">
-  Código 100% Funcional
-</h3>
 
-<br>
-<h5 align="center">
-  :construction: Projeto README :rocket: em construção :construction:
-</h5>
+***
+> "O Sucesso começa com um sonho, do sonho para a meta, da meta para a disciplina, da disciplina para a persistência e da persistência para a conquista."
