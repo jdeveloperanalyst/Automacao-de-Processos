@@ -11,7 +11,7 @@ Para este projeto será utilizado uma base de dados que basicamente é um <kbd>a
 
 ## Selenium
 
-O <kbd>Selenium</kbd> é uma biblioteca muito utilizada como interface com o navegador. Ela funciona como um robô que clica, insere dados, etc em páginas web, interagindo com os sites como se fosse você. Muito útil para processos repetitivos como este que temos aqui. E Antes de mostrar a estrutura do código vale <kbd>destacar</kbd> uma atualização importante sobre a biblioteca no qual altera o seu uso no que se refere a interação com os navegadores. <kbd>Confira abaixo</kbd> uma breve explicação sobre este upadate:
+O <kbd>Selenium</kbd> é uma biblioteca muito utilizada como interface com o navegador. Ela funciona como um robô que clica, insere dados, etc... em páginas web, interagindo com os sites como se fosse você. Muito útil para processos repetitivos como este que temos aqui. E Antes de mostrar a estrutura do código vale <kbd>destacar</kbd> uma atualização importante sobre a biblioteca no qual altera o seu uso no que se refere a interação com os navegadores. <kbd>Confira abaixo</kbd> uma breve explicação sobre este update:
 
 
 https://user-images.githubusercontent.com/112918533/202278285-37f227fa-62a8-40f7-87c6-2ca0866d7b3f.mp4
