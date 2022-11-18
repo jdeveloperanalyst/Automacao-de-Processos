@@ -26,4 +26,4 @@ https://user-images.githubusercontent.com/112918533/202279552-c0783ce8-0cac-4ccd
 
 
 ***
-> "O Sucesso começa com um sonho, do sonho para a meta, da meta para a disciplina, da disciplina para a persistência e da persistência para a conquista"
+> "O Sucesso começa com um sonho, do sonho para a meta, da meta para a disciplina, da disciplina para a persistência e da persistência para a conquista."
